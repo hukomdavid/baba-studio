@@ -1,2 +1,0 @@
-# octopus
-learn to code
