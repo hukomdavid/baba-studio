@@ -1,3 +1,3 @@
 # inktopus
-  this isi a repository that i used to leard about coding and programming
+  this is a repository that i used to leard about coding and programming
   just basic, like html, css, js, python and more.
